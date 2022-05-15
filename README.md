@@ -48,7 +48,7 @@
 <h3 align="left"><img src="./src/youtube.gif" width="70px" height="25px"> latest Videos</h3>
 
 <!-- YOUTUBE:START -->
-
+- [【★】 Pentesting desde Telegram 【★】 ](https://www.youtube.com/watch?v=A-ULQBQdsT0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](hhttps://www.youtube.com/channel/UCYnbq8Km2ZDXc2bH_SOucGw)
