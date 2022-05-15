@@ -5,7 +5,7 @@
 
 <h3 align="center">Black Team</h3>
 
-<img align="right" alt="hacker" width="340" height="600" src="https://phoneky.co.uk/thumbs/screensavers/down/computer/hacker_uGThpFPb.gif">
+<img align="right" alt="hacker" width="400" src="https://phoneky.co.uk/thumbs/screensavers/down/computer/hacker_uGThpFPb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0dig0scur0&label=Profile%20views&color=0e75b6&style=flat" alt="c0dig0scur0" /> </p>
 
@@ -60,11 +60,11 @@
 <tr>
 <td>
 
-[<img align="left" alt="MC Technology | YouTube" width="22px" src="./src/youtube.png" />][youtube]
-[<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
-[<img align="left" alt="@mctechnology17 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
-[<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
-[<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
+[<img align="left" alt="codigo BlackTeam | YouTube" width="22px" src="./src/youtube.png" />][youtube]
+[<img align="left" alt="@C0DIG0SCUR0 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
+[<img align="left" alt="@C0DIG0SCUR0 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
+[<img align="left" alt="@C0DIG0SCUR0 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
+[<img align="left" alt="@C0DIG0SCUR0 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
 
 </td>
 </tr>
