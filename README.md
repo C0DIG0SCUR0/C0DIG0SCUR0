@@ -51,7 +51,7 @@
 - [【★】 Pentesting desde Telegram 【★】 ](https://www.youtube.com/watch?v=A-ULQBQdsT0)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](hhttps://www.youtube.com/channel/UCYnbq8Km2ZDXc2bH_SOucGw)
+➡️ [more videos...](https://www.youtube.com/channel/UCYnbq8Km2ZDXc2bH_SOucGw)
 
 
 <table align="right">
