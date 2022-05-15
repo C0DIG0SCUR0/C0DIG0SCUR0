@@ -12,7 +12,6 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=c0dig0scur0&show_icons=true&locale=en&layout=compact" alt="c0dig0scur0" /></p>
