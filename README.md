@@ -1,9 +1,11 @@
 ### Hi there 👋
+[![MC Technology](src/ge.gif)](https://www.youtube.com/channel/UCYnbq8Km2ZDXc2bH_SOucGw)
+
 <h1 align="center">Hi 👋, I'm C0DIG0</h1>
 
 <h3 align="center">Black Team</h3>
 
-<img align="right" alt="hacker" width="400" src="https://phoneky.co.uk/thumbs/screensavers/down/computer/hacker_uGThpFPb.gif">
+<img align="right" alt="hacker" width="400" height="600" src="https://phoneky.co.uk/thumbs/screensavers/down/computer/hacker_uGThpFPb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0dig0scur0&label=Profile%20views&color=0e75b6&style=flat" alt="c0dig0scur0" /> </p>
 
